@@ -1,6 +1,4 @@
 
-<img src="cs171-logo.png" width="200">
-
 &nbsp;
 
 # Session 06 | Lab
