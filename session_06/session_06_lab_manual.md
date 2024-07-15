@@ -205,7 +205,7 @@ In CSS, the term "box model" is used when talking about design and layout.
 
 The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content. The image below illustrates the box model:
 
-![Preview](img/box_model.png?raw=true "Final Result")
+![Preview](https://github.com/rob3rtroessler/CS14115_2024_S3/blob/main/session_06/img/box_model.png?raw=true "Final Result")
 
 - Content - The content of the box, where text and images appear
 - Padding - Clears an area around the content. The padding is transparent
@@ -237,7 +237,7 @@ Unlike PX, relative units like %, EM, and REM are better suited to responsive de
 
 ## Lab 06 - Tasks
 
-![Preview](img/final_result.png?raw=true "Final Result")
+![Preview](https://github.com/rob3rtroessler/CS14115_2024_S3/blob/main/session_06/img/final_result.png?raw=true "Final Result")
 
 
 Below,we find all tasks you will need to complete in order to create a dashboard grid similar to
