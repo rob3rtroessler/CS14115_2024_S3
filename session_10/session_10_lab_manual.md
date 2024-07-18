@@ -1,8 +1,7 @@
 
 # Session 10
 
-![Preview](/Template/img/md/cs171_w8_hw_preview.png?raw=true "D3 Projections")
-
+![image](Template/img/md/cs171_w8_hw_preview.png)
 
 ## 1) Visualizing Covid Data (10 points)
 
@@ -52,7 +51,7 @@ his client by **Friday, July 7, 11:59 am (EST)**.
 
 #### Template
 
-![W08HW-templatePreview](/Template/img/md/cs171_w8_hw_template.png?raw=true "W08HW-templatePreview")
+![image](Template/img/md/cs171_w8_hw_preview.png)
 
 Before Fraya left to pursue her dream to live off-grid in a lighthouse in
  Iceland, she finished some mayor parts of the projects. Most prominently, she created: 
@@ -106,7 +105,7 @@ Having attended a D3 choropleth bootcamp recently, you think that you're well-eq
 
 ## Task I - MapVis
 
-![img.png](/Template/img/img.png)
+![image](Template/img/img.png)
 
 
 1. **Create class MapVis**
@@ -293,6 +292,7 @@ Having attended a D3 choropleth bootcamp recently, you think that you're well-eq
 ----
 ## Task II -  BarVis
 
+![image](Template/img/img_2.png)
 ![img_2.png](/Template/img/img_2.png)
 
 
