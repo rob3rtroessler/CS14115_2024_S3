@@ -47,7 +47,7 @@ applications in the healthcare sector. He tells you that he's got your number fr
  colleague Hanspeter Pfister. 
 Wiesel is desperately looking for a data visualization expert with proficiency in the JavaScript library D3. Recently, 
 his star senior developer Fraya Vogel has left his team, but Wiesel has promised to deliver a new Coronavirus dashboard to 
-his client by **Friday, July 7, 11:59 am (EST)**. 
+his client by **Friday, July 19th, 11:59 am (EST)**. 
 
 #### Template
 
